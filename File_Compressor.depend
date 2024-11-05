@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730846033 source:c:\users\shnav\onedrive\pictures\documents\new_file_compressor\file_compressor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
